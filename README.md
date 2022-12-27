@@ -1,1 +1,1 @@
-# Gui_PassworfGenerator
+# Gui_PasswordGenerator
